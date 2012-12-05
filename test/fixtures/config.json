@@ -15,17 +15,11 @@
     { "host": "example.com"
     , "port": 8080
     }
-  , "mongo":
-    { "prop": true
-    }
   }
 , "staging":
   { "http":
     { "host": "example.com"
     , "port": 8080
-    }
-  , "mongo":
-    { "prop": true
     }
   }
 , "testing":
@@ -37,6 +31,9 @@
   { "http":
     { "port": 18000
     }
-  }
+  , "mongo":
+    { "prop": true
+    }
   , "log": true
+  }
 }
