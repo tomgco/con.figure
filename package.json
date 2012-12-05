@@ -1,0 +1,17 @@
+{
+  "name": "configure",
+  "version": "0.0.0",
+  "description": "Configurations made easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r should test\\*"
+  },
+  "repository": "",
+  "keywords": [
+    "configure",
+    "config",
+    "settings"
+  ],
+  "author": "Tom Gallacher",
+  "license": "MIT"
+}
