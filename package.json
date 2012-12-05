@@ -4,7 +4,7 @@
   "description": "Configurations made easy",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -r should test\\*"
+    "test": "mocha -r should test"
   },
   "repository": "",
   "keywords": [
@@ -12,6 +12,10 @@
     "config",
     "settings"
   ],
+  "devDependencies":
+	{ "should": "*"
+	, "mocha": "*"
+	},
   "author": "Tom Gallacher",
   "license": "MIT"
 }
