@@ -1,4 +1,5 @@
 module.exports = function(input, options) {
+  options = options || {}
   var config = input.common || {}
     , env = options.env || process.env.NODE_ENV
 
