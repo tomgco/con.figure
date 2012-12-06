@@ -1,8 +1,8 @@
-# configure
+# con.figure
 
 Ever had multiple environments which need different configurations
 and always find that you end up writing your own thing for each project? 
-`configure` aims to be a module where all you need to do is specify a 
+`con.figure` aims to be a module where all you need to do is specify a 
 common hash in a JSON file or JS Object and then a new hash for each 
 environment.
 
