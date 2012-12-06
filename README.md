@@ -7,7 +7,7 @@ common hash in a JSON file or JS Object and then a new hash for each
 environment.
 
 ## Example
-```
+```json
 { "common":
   { "http":
     { "host": "0.0.0.0"
