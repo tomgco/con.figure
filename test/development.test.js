@@ -13,7 +13,6 @@ describe('Configure', function() {
 
     it('should return an object', function() {
       config.should.be.a('object')
-      console.log(config)
     })
 
     it('should contain the hash of log set to true', function() {
