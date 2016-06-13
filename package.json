@@ -1,6 +1,6 @@
 {
   "name": "con.figure",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Configurations made easy",
   "main": "index.js",
   "scripts": {
@@ -12,10 +12,10 @@
     "config",
     "settings"
   ],
-  "devDependencies":
-	{ "should": "*"
-	, "mocha": "*"
-	},
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
   "author": "Tom Gallacher",
   "license": "MIT"
 }
